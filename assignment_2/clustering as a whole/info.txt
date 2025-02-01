@@ -1,0 +1,41 @@
+----
+Quantity:
+
+Number of clusters (excluding noise): 11
+
+Cluster member counts:
+Cluster
+-1     19219
+ 0     10960
+ 1      9500
+ 2      9805
+ 3      6443
+ 4     14839
+ 5      5957
+ 6      3539
+ 7      9749
+ 8      3353
+ 9      7371
+ 10     5392
+----
+
+----
+Revenue:
+
+Number of clusters (excluding noise): 11
+
+Cluster member counts:
+Cluster
+-1     27658
+ 0     10887
+ 1      8713
+ 2      3830
+ 3     13889
+ 4     11660
+ 5      6970
+ 6      3034
+ 7      5584
+ 8      5503
+ 9      3693
+ 10     4706
+----
